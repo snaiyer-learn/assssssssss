@@ -1,0 +1,41 @@
+boardsize 7
+clear_board
+play B A1
+play W A2
+play B A3
+play W A4
+play B A5
+play W A6
+play B B1
+play W B2
+play B B3
+play W B4
+play B B5
+play W B6
+play B C1
+play W C2
+play B C3
+play W C4
+play B C5
+play W C6
+play B D1
+play W D2
+play B D3
+play W D4
+play B D5
+play W D6
+play B F1
+play W F2
+play B F3
+play W F4
+play B F5
+play W F6
+play B G1
+play W G2
+play B G3
+play W G4
+play B G5
+play W G6
+
+genmove b
+#?[resign]
